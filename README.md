@@ -58,10 +58,9 @@ Code in `utils.py` handles:
 ---
 
 ## 📈 Results
-You can report results in the README. Include final train/test accuracy and AUC if available:
 
-Accuracy: 0.95
-ROC-AUC: 0.98
+Accuracy: 0.96
+
 Use binary_classification.ipynb to compute & print these metrics.
 
 ## 📂 Project Structure
